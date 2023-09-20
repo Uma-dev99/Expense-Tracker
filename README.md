@@ -8,8 +8,13 @@ Implementing OCR using Google Cloud Vision API.
 git clone https://github.com/Uma-dev99/Expense-Tracker.git
 ```
 ## Tech Stack 
+<br>
 HTML
+<br>
 CSS
+<br>
 JavScript
-React.js 
+<br>
+React.js
+<br>
 Node.js
